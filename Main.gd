@@ -4,6 +4,5 @@ func _ready():
 	print("main ready");
 	print("este el el primer cambio");
 	print("otro cambio cualquiera")
-	#INFORMACIÓN DE RAMA 3
-	#INFORMACIÓN DE LA RAMA2
+	#esta es la ramaB
 
